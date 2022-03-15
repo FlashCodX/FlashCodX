@@ -1,6 +1,6 @@
 # ![preview](banner.png)
 
-### Hi there 👋
+### Hi there 👋 ! I'm Luís Pinto a Front End Developer from Portugal.
 
 <!--
 **FlashCodX/FlashCodX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
