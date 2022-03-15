@@ -1,3 +1,5 @@
+![Web-developer]("./banner.png")
+
 ### Hi there 👋
 
 <!--
