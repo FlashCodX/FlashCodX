@@ -1,4 +1,4 @@
-![Web-developer]("./banner.png")
+![Web-developer]("/banner.png")
 
 ### Hi there 👋
 
