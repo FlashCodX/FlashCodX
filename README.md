@@ -9,7 +9,14 @@
 ![Python](http://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python&logoColor=3776AB)
 ![Java](http://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java&logoColor=007396)
 
+### Web Frameworks i have experience with:</br>
+![React](http://img.shields.io/badge/-React-000000?style=for-the-badge&logo=React&logoColor=blue)
+![Next](http://img.shields.io/badge/-Next-000000?style=for-the-badge&logo=Next.js)
+![Redux](http://img.shields.io/badge/-Redux-000000?style=for-the-badge&logo=Redux&logoColor=764ABC)
 
+### CSS Frameworks i have worked with:</br>
+![Bootstrap](http://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=Bootstrap&logoColor=7952B3)
+![Tailwind CSS](http://img.shields.io/badge/-Tailwind%20CSS-000000?style=for-the-badge&logo=Tailwind-CSS&logoColor=06B6D4)
 
 ### Sofware I have worked with:</br>
 ![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
@@ -21,14 +28,7 @@
 
 
 
-### Web Frameworks i have experience with:</br>
-![React](http://img.shields.io/badge/-React-000000?style=for-the-badge&logo=React&logoColor=blue)
-![Next](http://img.shields.io/badge/-Next-000000?style=for-the-badge&logo=Next.js)
-![Redux](http://img.shields.io/badge/-Redux-000000?style=for-the-badge&logo=Redux&logoColor=764ABC)
 
-### CSS Frameworks i have worked with:</br>
-![Bootstrap](http://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=Bootstrap&logoColor=7952B3)
-![Tailwind CSS](http://img.shields.io/badge/-Tailwind%20CSS-000000?style=for-the-badge&logo=Tailwind-CSS&logoColor=06B6D4)
 
 
 
