@@ -28,9 +28,8 @@
 
 ### CSS Frameworks i have worked with:</br>
 ![Bootstrap](http://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=Bootstrap&logoColor=7952B3)
-![Tailwind CSS](http://img.shields.io/badge/-Tailwind%20CSS-000000?style=for-the-badge&logo=Tailwind-CSS&logoColor=7952B3)
-![React](http://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=Bootstrap&logoColor=7952B3)
-![React](http://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=Bootstrap&logoColor=7952B3)
+![Tailwind CSS](http://img.shields.io/badge/-Tailwind%20CSS-000000?style=for-the-badge&logo=Tailwind-CSS&logoColor=06B6D4)
+
 
 
 
