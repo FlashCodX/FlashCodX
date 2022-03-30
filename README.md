@@ -14,6 +14,11 @@
 ![Next](http://img.shields.io/badge/-Next-000000?style=for-the-badge&logo=Next.js)
 ![Redux](http://img.shields.io/badge/-Redux-000000?style=for-the-badge&logo=Redux&logoColor=764ABC)
 
+### Databases:</br>
+![Firebase](http://img.shields.io/badge/-Firebase-000000?style=for-the-badge&logo=Firebase&logoColor=FFCA28)
+![MongoDB](http://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=MongoDB&logoColor=47A248)
+
+
 
 ### CSS Frameworks i have worked with:</br>
 ![Bootstrap](http://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=Bootstrap&logoColor=7952B3)
