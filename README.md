@@ -6,8 +6,7 @@
 ### My Top Languages:</br>
 ![HTML5](http://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5&logoColor=E34F26)
 ![JS](http://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
-![Python](http://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python&logoColor=3776AB)
-![Java](http://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java&logoColor=007396)
+![CSS3](http://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 
 ### Web Frameworks i have experience with:</br>
 ![React](http://img.shields.io/badge/-React-000000?style=for-the-badge&logo=React&logoColor=blue)
