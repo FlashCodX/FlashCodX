@@ -6,6 +6,7 @@
 ### My Top Languages:</br>
 ![HTML5](http://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5&logoColor=E34F26)
 ![JS](http://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
+![TS](http://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=TypeScript&logoColor=3178C6)
 ![CSS3](http://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 
 ### Web Frameworks i have experience with:</br>
