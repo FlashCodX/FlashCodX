@@ -16,6 +16,8 @@
 
 ### Testing Frameworks i have worked with:</br>
 ![Cypress](http://img.shields.io/badge/-Cypress-000000?style=for-the-badge&logo=Cypress&logoColor=white)
+![Cypress](http://img.shields.io/badge/-Jest-000000?style=for-the-badge&logo=Jest&logoColor=C21325)
+
 
 
 ### Databases:</br>
