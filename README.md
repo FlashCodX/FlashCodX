@@ -29,7 +29,7 @@
 ### CSS Frameworks i have worked with:</br>
 ![Bootstrap](http://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=Bootstrap&logoColor=7952B3)
 ![Tailwind CSS](http://img.shields.io/badge/-Tailwind%20CSS-000000?style=for-the-badge&logo=Tailwind-CSS&logoColor=06B6D4)
-![Styled-Components](https://img.shields.io/badge/styled%20components-17202C?style=for-the-badge&logo=styled-components&logoColor=DB7093)
+![Styled-Components](https://img.shields.io/badge/styled%20components-000000?style=for-the-badge&logo=styled-components&logoColor=DB7093)
 
 
 ### Sofware I have worked with:</br>
